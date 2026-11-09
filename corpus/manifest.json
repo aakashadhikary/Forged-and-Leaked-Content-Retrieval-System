@@ -1,0 +1,442 @@
+[
+  {
+    "filename": "original_001.jpg",
+    "original_id": "original_001",
+    "transform": "original",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_001.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_001_cropped.jpg",
+    "original_id": "original_001",
+    "transform": "cropped",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_001_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_001_flipped.jpg",
+    "original_id": "original_001",
+    "transform": "flipped",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_001_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_001_watermarked.jpg",
+    "original_id": "original_001",
+    "transform": "watermarked",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_001_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_001_jpeg20.jpg",
+    "original_id": "original_001",
+    "transform": "jpeg20",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_001_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_002.jpg",
+    "original_id": "original_002",
+    "transform": "original",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_002.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_002_cropped.jpg",
+    "original_id": "original_002",
+    "transform": "cropped",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/original_002_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_002_flipped.jpg",
+    "original_id": "original_002",
+    "transform": "flipped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_002_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_002_watermarked.jpg",
+    "original_id": "original_002",
+    "transform": "watermarked",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_002_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_002_jpeg20.jpg",
+    "original_id": "original_002",
+    "transform": "jpeg20",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_002_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_003.jpg",
+    "original_id": "original_003",
+    "transform": "original",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_003.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_003_cropped.jpg",
+    "original_id": "original_003",
+    "transform": "cropped",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_003_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_003_flipped.jpg",
+    "original_id": "original_003",
+    "transform": "flipped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_003_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_003_watermarked.jpg",
+    "original_id": "original_003",
+    "transform": "watermarked",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_003_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_003_jpeg20.jpg",
+    "original_id": "original_003",
+    "transform": "jpeg20",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_003_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_004.jpg",
+    "original_id": "original_004",
+    "transform": "original",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_004.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_004_cropped.jpg",
+    "original_id": "original_004",
+    "transform": "cropped",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_004_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_004_flipped.jpg",
+    "original_id": "original_004",
+    "transform": "flipped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_004_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_004_watermarked.jpg",
+    "original_id": "original_004",
+    "transform": "watermarked",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_004_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_004_jpeg20.jpg",
+    "original_id": "original_004",
+    "transform": "jpeg20",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/original_004_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_005.jpg",
+    "original_id": "original_005",
+    "transform": "original",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_005.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_005_cropped.jpg",
+    "original_id": "original_005",
+    "transform": "cropped",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_005_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_005_flipped.jpg",
+    "original_id": "original_005",
+    "transform": "flipped",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/original_005_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_005_watermarked.jpg",
+    "original_id": "original_005",
+    "transform": "watermarked",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_005_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_005_jpeg20.jpg",
+    "original_id": "original_005",
+    "transform": "jpeg20",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_005_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_006.jpg",
+    "original_id": "original_006",
+    "transform": "original",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_006.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_006_cropped.jpg",
+    "original_id": "original_006",
+    "transform": "cropped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_006_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_006_flipped.jpg",
+    "original_id": "original_006",
+    "transform": "flipped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_006_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_006_watermarked.jpg",
+    "original_id": "original_006",
+    "transform": "watermarked",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_006_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_006_jpeg20.jpg",
+    "original_id": "original_006",
+    "transform": "jpeg20",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_006_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_007.jpg",
+    "original_id": "original_007",
+    "transform": "original",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_007.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_007_cropped.jpg",
+    "original_id": "original_007",
+    "transform": "cropped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_007_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_007_flipped.jpg",
+    "original_id": "original_007",
+    "transform": "flipped",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_007_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_007_watermarked.jpg",
+    "original_id": "original_007",
+    "transform": "watermarked",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_007_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_007_jpeg20.jpg",
+    "original_id": "original_007",
+    "transform": "jpeg20",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_007_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_008.jpg",
+    "original_id": "original_008",
+    "transform": "original",
+    "platform": "DemoSite-A",
+    "url": "http://demo-corpus.local/demosite-a/original_008.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_008_cropped.jpg",
+    "original_id": "original_008",
+    "transform": "cropped",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_008_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_008_flipped.jpg",
+    "original_id": "original_008",
+    "transform": "flipped",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_008_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_008_watermarked.jpg",
+    "original_id": "original_008",
+    "transform": "watermarked",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_008_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_008_jpeg20.jpg",
+    "original_id": "original_008",
+    "transform": "jpeg20",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_008_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_009.jpg",
+    "original_id": "original_009",
+    "transform": "original",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_009.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_009_cropped.jpg",
+    "original_id": "original_009",
+    "transform": "cropped",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_009_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_009_flipped.jpg",
+    "original_id": "original_009",
+    "transform": "flipped",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/original_009_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_009_watermarked.jpg",
+    "original_id": "original_009",
+    "transform": "watermarked",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/original_009_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_009_jpeg20.jpg",
+    "original_id": "original_009",
+    "transform": "jpeg20",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_009_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_010.jpg",
+    "original_id": "original_010",
+    "transform": "original",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/original_010.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_010_cropped.jpg",
+    "original_id": "original_010",
+    "transform": "cropped",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_010_cropped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_010_flipped.jpg",
+    "original_id": "original_010",
+    "transform": "flipped",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_010_flipped.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_010_watermarked.jpg",
+    "original_id": "original_010",
+    "transform": "watermarked",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/original_010_watermarked.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "original_010_jpeg20.jpg",
+    "original_id": "original_010",
+    "transform": "jpeg20",
+    "platform": "DemoGallery-D",
+    "url": "http://demo-corpus.local/demogallery-d/original_010_jpeg20.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "distractor_001.jpg",
+    "original_id": null,
+    "transform": "distractor",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/distractor_001.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "distractor_002.jpg",
+    "original_id": null,
+    "transform": "distractor",
+    "platform": "DemoBoard-C",
+    "url": "http://demo-corpus.local/demoboard-c/distractor_002.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "distractor_003.jpg",
+    "original_id": null,
+    "transform": "distractor",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/distractor_003.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "distractor_004.jpg",
+    "original_id": null,
+    "transform": "distractor",
+    "platform": "DemoNet-E",
+    "url": "http://demo-corpus.local/demonet-e/distractor_004.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  },
+  {
+    "filename": "distractor_005.jpg",
+    "original_id": null,
+    "transform": "distractor",
+    "platform": "DemoForum-B",
+    "url": "http://demo-corpus.local/demoforum-b/distractor_005.jpg",
+    "note": "SIMULATED \u2014 synthetic demo data only, not a real platform"
+  }
+]

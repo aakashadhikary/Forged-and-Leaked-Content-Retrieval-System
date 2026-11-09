@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+facenet-pytorch>=2.5.3
+open_clip_torch>=2.20.0
+imagehash>=4.3.1
+Pillow>=10.0.0
+numpy>=1.24.0
+scikit-image>=0.21.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+opencv-python>=4.8.0
+scenedetect>=0.6.0           # optional — scene-based keyframe detection
